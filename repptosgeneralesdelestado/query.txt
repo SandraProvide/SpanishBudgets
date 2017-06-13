@@ -1,0 +1,3 @@
+C:\repptosgeneralesdelestado>java -jar parser.jar "C:\\repptosgeneralesdelestado\\origen" "res.json"
+
+JAVA ORM ->
